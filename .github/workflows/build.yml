@@ -37,4 +37,3 @@ jobs:
         run: mvn verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar 
           --batch-mode
           --define sonar.projectKey=rabestro_test-sonar-multimodules
-        
