@@ -22,7 +22,6 @@
         <sonar.coverage.jacoco.xmlReportPaths>
             ${project.basedir}/target/site/jacoco-aggregate/jacoco.xml
         </sonar.coverage.jacoco.xmlReportPaths>
-        <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
         <!-- Maven -->
         <maven.compiler.release>17</maven.compiler.release>
         <maven.compiler.source>17</maven.compiler.source>
